@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 5.0.1'
 gem 'mysql2', '>= 0.3.18', '< 0.5'
+gem 'pg'
 gem 'puma', '~> 3.0'
 
 gem "ember-cli-rails"
